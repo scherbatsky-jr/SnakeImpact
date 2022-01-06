@@ -1,4 +1,7 @@
 # SnakeImpact built using Pygame in Python
+
+Install pygame and tkinter using pip
+
 Created By:
 
 Sunil Prajapati
