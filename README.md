@@ -2,6 +2,13 @@
 
 Install pygame and tkinter using pip
 
+    pip install pygame
+    pip install tkinter
+
+To run the app, run
+
+    python SnakeImpact.py
+
 Created By:
 
 Sunil Prajapati
